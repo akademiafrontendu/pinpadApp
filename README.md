@@ -1,6 +1,6 @@
-**Witaj w projekcie Meditation App**
+**Witaj w projekcie Pin Pad App**
 
-Zajmiemy się stworzeniem aplikacji do medytacji.
+Zajmiemy się stworzeniem aplikacji do wpisywania pinu i przekierowania na kolejną stronę
 
 **Założenia:** <br/>
 Aplikacja po wpisaniu pinu 1234 ma przekierować na strone dashboard.html. Jeżeli źle wpiszemy PIN pole do wpisywania pinu podświetli się na czerwnono. Mamy dostępne dwa przyciski do usuwania pinu oraz do potwierdzenia wprowadzonego PINU. Kolor aplikacji jest dowolony. <br/>
